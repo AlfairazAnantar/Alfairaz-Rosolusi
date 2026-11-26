@@ -3,3 +3,4 @@ Alur Belajar :
 - Belajar framework
 - Belajar Backend
 - Belajar Database
+- Belajar AI Tools
