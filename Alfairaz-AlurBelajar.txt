@@ -2,3 +2,4 @@ Alur Belajar :
 - Belajar Git and Github
 - Belajar framework
 - Belajar Backend
+- Belajar Database
