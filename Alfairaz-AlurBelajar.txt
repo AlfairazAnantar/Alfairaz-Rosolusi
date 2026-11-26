@@ -1,6 +1,9 @@
 Alur Belajar : 
 - Belajar Git and Github
 - Belajar framework
+  1. NextJs
 - Belajar Backend
 - Belajar Database
 - Belajar AI Tools
+- Belajar Docker
+- Belajar Linux
