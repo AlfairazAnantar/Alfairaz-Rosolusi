@@ -6,3 +6,4 @@ Alur Belajar :
 - Belajar Database
 - Belajar AI Tools
 - Belajar Docker
+- Belajar Linux
