@@ -1,6 +1,8 @@
 Alur Belajar : 
 - Belajar Git and Github
 - Belajar framework
+  1. Reactjs
+  2. Tailwind
 - Belajar Backend
 - Belajar Database
 - Belajar AI Tools
